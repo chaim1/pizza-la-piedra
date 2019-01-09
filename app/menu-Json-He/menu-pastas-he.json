@@ -1,0 +1,40 @@
+{
+    "Title": "פסטות",
+    "menu": [
+        {
+            "menu2": [
+                {
+            
+                    "name": "פסטה1",
+                    "list": [
+                        "cheese1",
+                        "tomato sauce1",
+                        "basil1",
+                        "dsngfljg"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "פסטה2",
+                    "list": [
+                        "cheese1",
+                        "tomato sauce1",
+                        "basil1",
+                        "dsngfljg"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "פסטה3",
+                    "list": [
+                        "cheese1",
+                        "tomato sauce1",
+                        "basil1",
+                        "dsngfljg"
+                    ],
+                    "price": 44
+                }
+            ]
+        }
+    ]
+}

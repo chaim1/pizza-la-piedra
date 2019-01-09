@@ -1,0 +1,39 @@
+{
+    "Title": "סלטים",
+    "menu": [
+        {
+            "menu2": [
+                {
+                    "name": "סלט1",
+                    "list": [
+                        "cheese1",
+                        "tomato sauce1",
+                        "basil1",
+                        "dsngfljg"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "סלט2",
+                    "list": [
+                        "cheese1",
+                        "tomato sauce1",
+                        "basil1",
+                        "dsngfljg"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "סלט3",
+                    "list": [
+                        "cheese1",
+                        "tomato sauce1",
+                        "basil1",
+                        "dsngfljg"
+                    ],
+                    "price": 44
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "Title": "drinks",
+    "menu": [
+        {
+            "MainTitle": "hot drink",
+            "menu2": [
+                {
+                    "name": "drink1",
+                    "list": [
+                        "cheese1",
+                        "tomato sauce1",
+                        "basil1",
+                        "dsngfljg"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "drink2",
+                    "list": [
+                        "cheese234",
+                        "tomato sauce234",
+                        "basil234"
+                    ]
+                }
+            ]
+        },
+        {
+            "MainTitle": "kold drink",
+            "menu2": [
+                {
+                    "name": "drink3",
+                    "list": [
+                        "cheese13",
+                        "tomato sauce13",
+                        "basil13"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "drink4",
+                    "list": [
+                        "cheese14",
+                        "tomato sauce14",
+                        "basil14"
+                    ]
+                }
+            ]
+        },
+        {
+            "MainTitle": "beer",
+            "menu2": [
+                {
+                    "name": "drink5",
+                    "list": [
+                        "cheese13",
+                        "tomato sauce13",
+                        "basil13"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "drink6",
+                    "list": [
+                        "cheese14",
+                        "tomato sauce14",
+                        "basil14"
+                    ]
+                }
+            ]
+        },
+        {
+            "MainTitle": "wein",
+            "menu2": [
+                {
+                    "name": "drink7",
+                    "list": [
+                        "cheese13",
+                        "tomato sauce13",
+                        "basil13"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "drink8",
+                    "list": [
+                        "cheese14",
+                        "tomato sauce14",
+                        "basil14"
+                    ]
+                }
+            ]
+        }
+    ]
+}

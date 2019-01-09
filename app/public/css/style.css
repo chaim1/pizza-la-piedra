@@ -1,0 +1,87 @@
+*,
+*::after,
+*::before {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: inherit; 
+}
+
+html {
+    font-size: 62.5%; 
+}
+
+.white_Color{
+    color: white;
+    /* color: black; */
+}
+.dark_Color{
+    color: black;
+}
+
+.background_Dark{
+    background-color: rgba(255, 255, 255, 0.6)
+
+}
+.text_Center{
+    text-align: center;
+}
+.AutoMargin{
+    margin: 5vw 5vw 0 5vw ;}
+
+
+
+body {
+    box-sizing: border-box; 
+}
+
+
+
+
+
+
+@keyframes moveInLeft {
+    0% {
+      opacity: 0;
+      /* transform: translateX(-10rem)rotate(-180deg); */
+      transform: translateX(-10rem); }
+    /* 60%{
+          transform: scale(sx ,sy)
+      } */
+    80% {
+      transform: translateX(1rem); }
+    100% {
+      opacity: 1;
+      transform: translate(0); } 
+}
+  
+  @keyframes moveInRight {
+    0% {
+      opacity: 0;
+      transform: translateX(1rem); }
+    80% {
+      transform: translateX(-1rem); }
+    100% {
+      opacity: 1;
+      transform: translate(0); } 
+
+
+}
+
+
+
+.LineHeaderTitle{
+    width: 25vw;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.LineHeaderSubTitle{
+    width: 90vw;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.divMenu{
+    background-color: rgba(255, 255, 255, 0.3);
+}
+

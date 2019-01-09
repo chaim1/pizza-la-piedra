@@ -1,0 +1,94 @@
+{
+    "Title": "שתיה",
+    "menu": [
+        {
+            "MainTitle": "שתיה חמה",
+            "menu2": [
+                {
+                    "name": "שתיה1",
+                    "list": [
+                        "גבינה",
+                        "tomato sauce1",
+                        "basil1",
+                        "dsngfljg"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "שתיה2",
+                    "list": [
+                        "גבינה",
+                        "tomato sauce234",
+                        "basil234"
+                    ]
+                }
+            ]
+        },
+        {
+            "MainTitle": "שתיה קרה",
+            "menu2": [
+                {
+                    "name": "שתיה3",
+                    "list": [
+                        "גבינה",
+                        "tomato sauce13",
+                        "basil13"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "שתיה4",
+                    "list": [
+                        "גבינה",
+                        "tomato sauce14",
+                        "basil14"
+                    ]
+                }
+            ]
+        },
+        {
+            "MainTitle": "בירות",
+            "menu2": [
+                {
+                    "name": "בירה1",
+                    "list": [
+                        "גבינה",
+                        "tomato sauce13",
+                        "basil13"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "בירה2",
+                    "list": [
+                        "גבינה",
+                        "tomato sauce14",
+                        "basil14"
+                    ]
+                }
+            ]
+        },
+        {
+            "MainTitle": "יין",
+            "menu2": [
+                {
+                    "name": "יין1",
+                    "list": [
+                        "גבינה",
+                        "tomato sauce13",
+                        "basil13"
+                    ],
+                    "price": 44
+                },
+                {
+                    "name": "יין2",
+                    "list": [
+                        "גבינה",
+                        "tomato sauce14",
+                        "basil14"
+                    ]
+                }
+            ]
+        }
+    ]
+}
