@@ -1,23 +1,8 @@
 
 @media only screen and (min-width: 600px) {
-    *,
-    *::after,
-    *::before {
-    margin: 0%;
-    padding: 0%;
-    box-sizing: inherit; }
-
-    html {
-    font-size: 62.5%; }
-
-    body {
-    box-sizing: border-box; 
-    }
+  
     .Hide_On_Pc{
         display: none;
-    }
-    body{
-        padding: 1rem;
     }
     .Header_Main_Class{
         background-image: linear-gradient(to right bottom, rgba(102, 102, 102, 0.349), rgba(253, 253, 253, 0.548)), url("../img/43913221_2522542031305362_7291664536755232144_n(1).jpg");
@@ -26,5 +11,34 @@
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
+    .border_Nav{
+        z-index: 99 ;
+        border: 1px solid rgb(121, 121, 121);
+        padding-top: 0.9%;
+        position: fixed;
+        top: 4rem;
+        margin-left: 92%;
+        width: 4vw;
+        height: 4vw;
+        background-color: rgb(255, 255, 255);
+        border-radius: 50%;
+    }
 
+    .nav_Lines{
+        width: 70%;
+        height: 2.5px;
+        background-color: black;
+        margin: 11% auto 0px 13.5%;
+    }
+    .Header_Div_Logo_Main{
+        position: fixed;
+        top: 12rem;
+        left: 47%; 
+        transform: translate(-50%, -50%);
+    }
+
+
+    .Header_Img_Logo_Main{
+        height: 15rem; 
+    }
 }

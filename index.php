@@ -35,7 +35,7 @@
 
                 <!-- img after first scroling -->
                 <div class="Header_Div_Logo_Black_Scroll">
-                    <img class="Header_Img_Logo_Black_Scroll" src="app/public/img/imageedit_2_3836448229.png" alt="logo lapiedra">
+                    <img class="Header_Img_Logo_Black_Scroll" src="app/public/img/imageedit_2_3836448229.png    " alt="logo lapiedra">
                 </div>
 
                 <!-- img after get the menu scroll -->
