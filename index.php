@@ -70,7 +70,7 @@
                 <img class="Main_Img_Mabile" src="app/public/img/imageedit_24_8789504960.jpg" alt="img menu">
             </div>
 
-            <div id="Menu_pizzas" class=" Main_Div_Menu">
+            <div id="Menu_pizzas" class=" Main_Div_Menu" style="color: black">
 
             </div>
 

@@ -69,19 +69,3 @@ body {
 
 
 
-.LineHeaderTitle{
-    width: 25vw;
-    margin: 0 auto;
-    background-color: white;
-}
-
-.LineHeaderSubTitle{
-    width: 90vw;
-    margin: 0 auto;
-    background-color: white;
-}
-
-.divMenu{
-    background-color: rgba(255, 255, 255, 0.3);
-}
-

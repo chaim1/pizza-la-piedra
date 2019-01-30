@@ -144,6 +144,28 @@
         z-index: 1;
         background-color: rgb(121, 121, 121);
     }
+    .LineHeaderTitle{
+        width: 25vw;
+        margin: 0 auto;
+        background-color: white;
+    }
+    
+    .LineHeaderSubTitle{
+        width: 90vw;
+        margin: 0 auto;
+        background-color: white;
+    }
+    
+    .divMenu{
+        background-color: rgba(255, 255, 255, 0.3);
+    }
+    
+    #footer{
+        margin-top: 100vh;
+        position: static;
+        top: 100vh;
+    }
+
     #footer{
         background-color: aliceblue;
         margin-top: 100vh;

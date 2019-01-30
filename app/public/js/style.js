@@ -35,19 +35,19 @@ function getMenu(theUrl, callback) {
 
 function setData(d) {
     for (var me = 0; me < d['menus'].length-1; me++) {
-        var tempMenuHeader = `<h1 class=" text_Center Menu_Title">${d['menus'][me]['Title']}</h1>
+        var tempMenuHeader = `<h1 class="Menu_Title">${d['menus'][me]['Title']}</h1>
             <hr class="LineHeaderTitle">`;
         $('#Menu_pizzas').append(tempMenuHeader);
 
         for (var i = 0; i < d['menus'][me]['menu'].length; i++) {
             if (d['menus'][me]['menu'][i].MainTitle) {
 
-                var tempMainHeader = `<h2 class="text_Center mainHeader">${d['menus'][me]['menu'][i].MainTitle}</h2><hr class="LineHeaderSubTitle">`;
+                var tempMainHeader = `<h2 class="mainHeader">${d['menus'][me]['menu'][i].MainTitle}</h2><hr class="LineHeaderSubTitle">`;
                 $('#Menu_pizzas').append(tempMainHeader);
             }
             for (var m = 0; m < d['menus'][me]['menu'][i]['menu2'].length; m++) {
                 var tenpMenuItem = `<div class="AutoMargin divMenu"  id="${d['menus'][me]['Title'] + i + m}"> 
-                <h3 class="text_Center Menu_Header">${d['menus'][me]['menu'][i]['menu2'][m].name}</h3>
+                <h3 class="Menu_Header">${d['menus'][me]['menu'][i]['menu2'][m].name}</h3>
                 </div>`;
                 $('#Menu_pizzas').append(tenpMenuItem);
                 for (var l = 0; l < d['menus'][me]['menu'][i]['menu2'][m].list.length; l++) {
